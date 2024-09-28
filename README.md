@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sayan Roy</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=student-sayan&label=Profile%20views&color=0e75b6&style=flat" alt="student-sayan" /> </p>
-
+<img align="right" alt="coding" width="100" height="100" src="<img align="right" alt="coding" width="200" src="https://media3.giphy.com/media/JJKmgrEvchDwbWgSIL/giphy.webp?cid=ecf05e47oiodi8lzf39g2b1t8f0rwuhk11lksg3bon2nryg4&ep=v1_gifs_search&rid=giphy.webp&ct=s">
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=student-sayan" alt="student-sayan" /></a> </p>
 <img align="right" alt="coding" width="200" src="https://media1.giphy.com/media/CrFLL3CnRpw5ddlBMm/giphy.webp?cid=ecf05e47kmf9f918baadt3t2uklxto4cn7i2c5z0yfk6dtjo&ep=v1_gifs_search&rid=giphy.webp&ct=g">
 - I'm currently studying Computer Science **Creat Portfolio**
