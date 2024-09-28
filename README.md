@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=student-sayan" alt="student-sayan" /></a> </p>
 
-<img align="right" alt="coding" width="400" src="https://media1.giphy.com/media/CrFLL3CnRpw5ddlBMm/giphy.webp?cid=ecf05e47kmf9f918baadt3t2uklxto4cn7i2c5z0yfk6dtjo&ep=v1_gifs_search&rid=giphy.webp&ct=g">
+<img align="right" alt="coding" width="320" src="https://media1.giphy.com/media/CrFLL3CnRpw5ddlBMm/giphy.webp?cid=ecf05e47kmf9f918baadt3t2uklxto4cn7i2c5z0yfk6dtjo&ep=v1_gifs_search&rid=giphy.webp&ct=g">
 - I'm currently studying Computer Science **Creat Portfolio**
 
 - 🌱 I’m currently learning **Data Structure and Algorithms**
