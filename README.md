@@ -1,6 +1,6 @@
-<h1 align="center"><b>Hi , I'm Sayan Roy </b><img src="https://media3.giphy.com/media/CrFLL3CnRpw5ddlBMm/giphy.webp?cid=ecf05e4714cpx335cccqrl8xwd08ioexy43ma7ib72btdayp&ep=v1_gifs_search&rid=giphy.webp&ct=g" width="35"></h1>
+<h1 align="center"><b>Hi , I'm Sayan Roy </b><img src="https://media4.giphy.com/media/KGhpQ5NMoWKQurlHwI/giphy.webp?cid=790b7611xn6s3z3ui69xu8ce9h25t1x3ui897zn0ieqvm53f&ep=v1_gifs_search&rid=giphy.webp&ct=g" width="35"></h1>
 <p align="center">
-   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Arijit+Chowdhury;++;Self-taught+Front-End+Developer,;Computer+Science+Student,;CTF+Newbie,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
+   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Sayan+Roy;++;Software+Developer,Web+Developer,Searching for goverment jobs is underway"></a>
 
 </p>
 
@@ -8,13 +8,13 @@
 	
 <h1><picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture>About me</h1>
 
-<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
+<picture> <img align="right" src="https://media3.giphy.com/media/CrFLL3CnRpw5ddlBMm/giphy.webp?cid=ecf05e4714cpx335cccqrl8xwd08ioexy43ma7ib72btdayp&ep=v1_gifs_search&rid=giphy.webp&ct=g" width = 250px></picture>
 
 
 - :University: I am a `Student` at [University of Calcutta](http://suez.edu.eg/ar/).
 - :technologist: I love using Software as a solution for every `Problem`.
 - :computer: I am a competitive programmer at `Codeforces`, `Atcoder`, `Leetcode`, `Codechef`, `Google Contests`.
-- :student: I’m currently learning `Computer Science` and `Software Development`.
+- :student: I’m learning `Computer Science` and `Web Developert`.
 - :nerd_face: Always `learning new things`.
 - :thinking: I really want to get a government job.
 - :boom: You can visit [MY WEBSITE]().
@@ -58,7 +58,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=student-sayan&theme=dark" alt="student-sayan" /></p>
 
 
-Credit: [Sayan Roy](https://github.com/student-sayan)
 
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
