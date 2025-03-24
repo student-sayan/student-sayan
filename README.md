@@ -1,14 +1,14 @@
 <h1 align="center"><b>Hi , I'm Sayan Roy </b><img src="https://media4.giphy.com/media/KGhpQ5NMoWKQurlHwI/giphy.webp?cid=790b7611xn6s3z3ui69xu8ce9h25t1x3ui897zn0ieqvm53f&ep=v1_gifs_search&rid=giphy.webp&ct=g" width="35"></h1>
-<p align="center">
-   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Sayan+Roy;++;Software+Developer,Web+Developer,Searching for goverment jobs is underway"></a>
-
-</p>
 
 <be>
 	
-<h1><picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture>About me</h1>
+<h1><picture><img src = "https://media4.giphy.com/media/du3J3cXyzhj75IOgvA/200.webp?cid=ecf05e47tp4x8pkcngtggekkzpe526mz1zvdypwiid8vqxxb&ep=v1_gifs_search&rid=200.webp&ct=g" width = 50px></picture> About me</h1>
+
+<picture> <img align="right" src="https://media2.giphy.com/media/oFYKw5OTZBZzVONpUh/giphy.webp?cid=790b7611liks0gok4sbve2v1nu6fz91mqk5wfqa93pjmq90x&ep=v1_gifs_search&rid=giphy.webp&ct=g" width = 250px></picture>
 
 <picture> <img align="right" src="https://media3.giphy.com/media/CrFLL3CnRpw5ddlBMm/giphy.webp?cid=ecf05e4714cpx335cccqrl8xwd08ioexy43ma7ib72btdayp&ep=v1_gifs_search&rid=giphy.webp&ct=g" width = 250px></picture>
+
+
 
 
 - :University: I am a `Student` at [University of Calcutta](http://suez.edu.eg/ar/).
@@ -17,7 +17,7 @@
 - :student: I’m learning `Computer Science` and `Web Developert`.
 - :nerd_face: Always `learning new things`.
 - :thinking: I really want to get a government job.
-- :boom: You can visit [MY WEBSITE]().
+- :boom: You can visit MY WEBSITE [https://roysayan.netlify.app/]().
 - 📫 How to reach me
 
 <a href="mailto:sayanroy702388@gmail.com" target="_blank">
@@ -53,9 +53,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=student-sayan&show_icons=true&theme=dark&locale=en&layout=compact" alt="student-sayan" /></p><br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=student-sayan&show_icons=true&theme=dark&locale=en" alt="student-sayan" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=student-sayan&theme=dark" alt="student-sayan" /></p>
 
 
 
