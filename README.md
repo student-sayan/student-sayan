@@ -17,7 +17,6 @@
 - :student: I’m learning `Computer Science` and `Web Developert`.
 - :nerd_face: Always `learning new things`.
 - :thinking: I really want to get a government job.
-- :boom: You can visit MY WEBSITE [https://roysayan.netlify.app/]().
 - 📫 How to reach me
 
 <a href="mailto:sayanroy702388@gmail.com" target="_blank">
