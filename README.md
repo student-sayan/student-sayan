@@ -1,13 +1,14 @@
 <h1 align="center"><b>Hi , I'm Sayan Roy </b><img src="https://media3.giphy.com/media/CrFLL3CnRpw5ddlBMm/giphy.webp?cid=ecf05e4714cpx335cccqrl8xwd08ioexy43ma7ib72btdayp&ep=v1_gifs_search&rid=giphy.webp&ct=g" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Arijit+Chowdhury;++;Self-taught+Front-End+Developer,;Computer+Science+Student,;CTF+Newbie,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
+   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Arijit+Chowdhury;++;Self-taught+Front-End+Developer,;Computer+Science+Student,;CTF+Newbie,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
+
 </p>
 
 <be>
 	
-<h1><picture><img src = "" width = 50px></picture>About me</h1>
+<h1><picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture>About me</h1>
 
-<picture> <img align="right" src="" width = 250px></picture>
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
 
 - :University: I am a `Student` at [University of Calcutta](http://suez.edu.eg/ar/).
@@ -24,11 +25,11 @@
 <br><br>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=student-arijit&label=Profile%20views&color=0e75b6&style=plastic" alt="student-arijit" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=student-sayan&label=Profile%20views&color=0e75b6&style=plastic" alt="student-sayan" /> </p>
 
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=student-Arijit&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=student-sayan&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 
@@ -50,14 +51,14 @@
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=student-arijit&show_icons=true&theme=dark&locale=en&layout=compact" alt="student-sayan" /></p><br>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=student-sayan&show_icons=true&theme=dark&locale=en&layout=compact" alt="student-sayan" /></p><br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=student-arijit&show_icons=true&theme=dark&locale=en" alt="student-sayan" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=student-sayan&show_icons=true&theme=dark&locale=en" alt="student-sayan" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=student-arijit&theme=dark" alt="student-arijit" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=student-sayan&theme=dark" alt="student-sayan" /></p>
 
 
-Credit: [Arijit Chowdhury](https://github.com/student-sayan)
+Credit: [Sayan Roy](https://github.com/student-sayan)
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
