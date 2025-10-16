@@ -1,105 +1,173 @@
+<!-- ──────────────────────────────────────────────── -->
 <!-- HEADER SECTION -->
+<!-- ──────────────────────────────────────────────── -->
+
 <h1 align="center">
-  <b>Hi, I'm Sayan Roy</b>
-  <img src="https://media4.giphy.com/media/KGhpQ5NMoWKQurlHwI/giphy.webp" width="40">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2500&pause=500&color=1AFFD5&center=true&vCenter=true&width=650&lines=👋+Hello+World!+I'm+Sayan+Roy;💻+Computer+Science+Student;🚀+Web+Developer+%26+Programmer;🎯+Focused+on+Innovation+%26+Growth!" alt="Typing SVG" />
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=00F5FF&center=true&vCenter=true&width=550&lines=💻+Computer+Science+Student;🌐+Web+Developer+and+Programmer;🚀+Always+Learning+Something+New;🎯+Focused+on+Growth+and+Excellence" />
+  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Developer.gif" width="250"/>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=student-sayan&label=Profile%20Visits&color=00C2FF&style=flat-square" alt="Profile views"/>
 </p>
 
 ---
 
-<!-- ABOUT SECTION -->
-<h2><img src="https://media4.giphy.com/media/du3J3cXyzhj75IOgvA/200.webp" width="40"> About Me</h2>
+<!-- ──────────────────────────────────────────────── -->
+<!-- ABOUT ME SECTION -->
+<!-- ──────────────────────────────────────────────── -->
+
+<h2 align="center">✨ About Me ✨</h2>
+
+<p align="center">
+  <img src="https://media.tenor.com/_DOBjnGspYAAAAAC/code-coding.gif" width="320">
+</p>
 
 <p align="justify">
-<img align="right" alt="Coding" width="250" src="https://media2.giphy.com/media/oFYKw5OTZBZzVONpUh/giphy.webp">
-<img align="right" alt="Dev" width="250" src="https://media3.giphy.com/media/CrFLL3CnRpw5ddlBMm/giphy.webp">
+👋 Hi there! I’m <b>Sayan Roy</b> — a passionate <b>Computer Science student</b> at the <a href="https://www.caluniv.ac.in/" target="_blank">University of Calcutta</a>.  
+I love exploring the intersection of <b>logic, creativity, and technology</b>.  
+Whether it’s building web apps, writing efficient algorithms, or experimenting with UI/UX — I’m always learning, improving, and growing.  
 
-🎓 I’m a student at <a href="https://www.caluniv.ac.in/" target="_blank"><b>University of Calcutta</b></a>.<br>
-💡 I love solving problems using technology and code.<br>
-🧠 Currently learning <b>Computer Science</b> and <b>Web Development</b>.<br>
-🏆 I regularly participate in coding contests — <b>Codeforces</b>, <b>LeetCode</b>, <b>AtCoder</b>, <b>CodeChef</b>.<br>
-💼 I aspire to get a <b>Government Job</b> in the IT domain.<br>
-📚 I enjoy exploring new tools, frameworks, and AI-driven solutions.<br>
+💡 <b>What drives me:</b> the desire to build impactful digital solutions that simplify lives.  
+🚀 <b>Goal:</b> work in software development or secure a government role in the tech sector.  
+🧠 <b>Current Focus:</b> mastering Web Technologies, Data Structures, and Competitive Programming.  
 </p>
 
 ---
 
-<!-- CONTACT SECTION -->
-<h2>📫 Reach Me</h2>
+<!-- ──────────────────────────────────────────────── -->
+<!-- TECH STACK / SKILLS SECTION -->
+<!-- ──────────────────────────────────────────────── -->
+
+<h2 align="center">⚙️ Tech Stack & Tools ⚙️</h2>
 
 <p align="center">
-  <a href="mailto:sayanroy702388@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Sayan_Roy-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/student-sayan" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/student_sayan" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-Follow-blue?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-  <a href="https://instagram.com/student.sayan" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-Follow-pink?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://github.com/student-sayan" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=student-sayan&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,javascript,typescript,php,bootstrap,react,flutter,nodejs,express,mongodb,mysql,postgresql,oracle,redis,git,github,docker,aws,gcp,figma,vscode,linux" />
 </p>
 
 ---
 
-<!-- TROPHY SECTION -->
-<h2>🏆 GitHub Achievements</h2>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=student-sayan&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8" />
-</p>
+<!-- ──────────────────────────────────────────────── -->
+<!-- PROJECTS SECTION -->
+<!-- ──────────────────────────────────────────────── -->
 
----
+<h2 align="center">🚧 Featured Projects 🚧</h2>
 
-<!-- SKILLS SECTION -->
-<h2><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30"> Skills & Technologies</h2>
-
-<p align="center">
-  <a href="#">
-    <img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,javascript,typescript,php,bootstrap,react,reactnative,nodejs,express,mysql,postgresql,mongodb,oracle,redis,git,github,docker,aws,gcp,figma" />
+<table align="center">
+<tr>
+<td align="center" width="50%">
+  <h3><a href="https://github.com/student-sayan/cover-page-generating-engine">📘 Cover Page Generator</a></h3>
+  <img src="https://github.com/saadeghi/saadeghi/raw/master/dino.gif" width="250"><br>
+  <p><b>Automates creation of academic report cover pages using Python & ReportLab. </b></p>
+  <a href="https://github.com/student-sayan/cover-page-generating-engine">
+    <img src="https://img.shields.io/badge/Repository-Open-blue?style=for-the-badge&logo=github"/>
   </a>
-</p>
+</td>
+<td align="center" width="50%">
+  <h3><a href="https://github.com/student-sayan/flutter-ui-collection">🎨 Flutter UI Collection</a></h3>
+  <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="250"><br>
+  <p><b>Collection of modern, responsive Flutter UI screens for students & devs.</b></p>
+  <a href="https://github.com/student-sayan/flutter-ui-collection">
+    <img src="https://img.shields.io/badge/Repository-Open-blueviolet?style=for-the-badge&logo=flutter"/>
+  </a>
+</td>
+</tr>
+</table>
 
 ---
 
+<!-- ──────────────────────────────────────────────── -->
 <!-- GITHUB STATS SECTION -->
-<h2><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> GitHub Stats</h2>
+<!-- ──────────────────────────────────────────────── -->
+
+<h2 align="center">📊 GitHub Analytics</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=student-sayan&show_icons=true&theme=tokyonight&hide_border=true" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=student-sayan&theme=tokyonight&hide_border=true" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=student-sayan&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=1AFFD5&icon_color=00FFFF" width="49%">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=student-sayan&theme=radical&hide_border=true&background=0D1117&ring=00FFFF&fire=1AFFD5&currStreakLabel=FFFFFF" width="49%">
 </div>
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=student-sayan&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=1AFFD5" width="60%">
+</div>
+
+---
+
+<!-- ──────────────────────────────────────────────── -->
+<!-- TROPHIES / BADGES -->
+<!-- ──────────────────────────────────────────────── -->
+
+<h2 align="center">🏅 Achievements & Trophies</h2>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=student-sayan&layout=compact&theme=tokyonight&hide_border=true" width="49%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=student-sayan&theme=radical&no-frame=true&margin-w=10" />
 </p>
 
 ---
 
-<!-- QUOTE / ANIMATION -->
-<h2 align="center">💬 Quote of the Day</h2>
+<!-- ──────────────────────────────────────────────── -->
+<!-- FUN ZONE -->
+<!-- ──────────────────────────────────────────────── -->
+
+<h2 align="center">🎮 Fun Zone 🎮</h2>
+
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Quote" />
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="180">
 </p>
 
----
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote" />
+</p>
 
-<!-- FOOTER -->
 <p align="center">
   <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 </p>
 
+---
+
+<!-- ──────────────────────────────────────────────── -->
+<!-- CONNECT SECTION -->
+<!-- ──────────────────────────────────────────────── -->
+
+<h2 align="center">🤝 Connect with Me</h2>
+
 <p align="center">
-  <b>✨ Made with ❤️ by <a href="https://github.com/student-sayan">Sayan Roy</a> ✨</b>
+  <a href="mailto:sayanroy702388@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/student-sayan" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/student_sayan" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/student.sayan" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://github.com/student-sayan" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<!-- ──────────────────────────────────────────────── -->
+<!-- FOOTER / SIGNATURE -->
+<!-- ──────────────────────────────────────────────── -->
+
+<h2 align="center">💫 Thanks for Visiting!</h2>
+
+<p align="center">
+  <img src="https://github.com/saadeghi/saadeghi/raw/master/dino.gif" width="250">
+</p>
+
+<p align="center">
+  <b>Made with ❤️ by <a href="https://github.com/student-sayan">Sayan Roy</a></b>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=500&color=00F0FF&center=true&vCenter=true&width=600&lines=Keep+Coding...;Keep+Learning...;Keep+Growing!;⭐+Follow+%40student-sayan+for+more+content!+" alt="Typing Animation" />
 </p>
