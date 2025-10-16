@@ -75,24 +75,7 @@
 
 ---
 
-<!-- PROJECTS PREVIEW -->
-<h2 align="center">🚀 Featured Projects</h2>
 
-<table align="center">
-<tr>
-<td align="center">
-  <img src="https://cdn.dribbble.com/users/1787323/screenshots/5914156/media/aa2d7e6d3b2e1e2fcbf88c4db8e0551e.gif" width="200"><br>
-  <b>🌐 Portfolio Website</b><br>
-  <a href="roysayan.netlify.app" target="_blank">View Repo</a>
-</td>
-<td align="center">
-  <img src="https://media2.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="200"><br>
-  <b>💬 Chat App (React + Firebase)</b><br>
-  <a href="https://github.com/student-sayan/chat-app" target="_blank">View Repo</a>
-</td>
-
-</tr>
-</table>
 
 ---
 
