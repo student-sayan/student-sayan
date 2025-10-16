@@ -83,7 +83,7 @@
 <td align="center">
   <img src="https://cdn.dribbble.com/users/1787323/screenshots/5914156/media/aa2d7e6d3b2e1e2fcbf88c4db8e0551e.gif" width="200"><br>
   <b>🌐 Portfolio Website</b><br>
-  <a href="https://github.com/student-sayan/portfolio" target="_blank">View Repo</a>
+  <a href="https://roysayan.netlify.app/#portfilio" target="_blank">View Repo</a>
 </td>
 <td align="center">
   <img src="https://media2.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="200"><br>
