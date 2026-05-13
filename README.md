@@ -21,8 +21,8 @@
 <img align="right" alt="Coding" width="350" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
 🌍 **Name:** Sayan Roy  
-🎓 **Education:** B.Sc. in Computer Science | MCA Student  
-💻 **University:** [University of Calcutta](https://www.caluniv.ac.in/)  
+🎓 **Education:** B.Sc. Computer Science Graduate
+<br>💻 **University:**[University of Calcutta](https://www.caluniv.ac.in/)  
 🧩 **Fields:** Web Development • App Development • Algorithms • UI/UX • AI Exploration  
 ⚡ **Goal:** Build impactful projects & land a top Government Tech Role  
 🎨 **Fun Fact:** I code faster when my playlist is on repeat 🎧  
@@ -47,23 +47,22 @@
 
 <!-- SKILLS SECTION -->
 <h2 align="center">⚙️ Tech Stack & Tools</h2>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,typescript,react,flutter,java,python,cpp,nodejs,express,mongodb,mysql,git,github,linux,aws,figma,vscode,postman,docker,androidstudio&theme=light" />
-</p>
+<p align="left">   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://flutter.dev/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/353751/flutter.svg" alt="flutter" width="40" height="40"/> </a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303251/mysql-logo.svg" alt="sql" width="40" height="40"/> </a>
+<a href="https://www.netacad.com/cisco-packet-tracer" target="_blank" rel="noreferrer"> <img src="https://hurbad.com/wp-content/uploads/2021/12/Cisco-Packet-Tracer.png" alt="cisco packet tracer" width="40" height="40"/> </a>
+<a href="https://www.geeksforgeeks.org/computer-organization-architecture/what-is-assembly-language/" target="_blank" rel="noreferrer"> <img src="https://media.licdn.com/dms/image/v2/D4D12AQEM9F_-u1OT5Q/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1658763190886?e=2147483647&v=beta&t=aEp72fzTRZC_0EilFbT0wVV2jw6O-Bqt759qLG4pLrw" alt="assembly" width="40" height="40"/> </a>
+<a href="https://www.microsoft.com/en-in/microsoft-365/powerpoint" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Microsoft_Office_PowerPoint_(2025%E2%80%93present).svg/3840px-Microsoft_Office_PowerPoint_(2025%E2%80%93present).svg.png" alt="power point" width="40" height="40"/> </a>
+  <a href="https://excel.cloud.microsoft/en-us/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=y5utoW4FUM92&format=png&color=000000" alt="excel" width="40" height="40"/> </a>
+  <a href="https://word.cloud.microsoft/en-us/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/512/microsoft-word-2025.png" alt="word" width="40" height="40"/> </a> 
+ <a href="https://www.geeksforgeeks.org/linux-unix/introduction-linux-shell-shell-scripting/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/353478/bash-icon.svg" alt="shellscript" width="40" height="40"/> </a>
+<a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRn5o2UmZneaZUdoop6FljZoAatSeOLn68iRw&s" alt="numpy" width="40" height="40"/> </a>
+<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=xSkewUSqtErH&format=png&color=000000" alt="pandas" width="40" height="40"/> </a>
+<a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> <img src="https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/4/matplotlib-h2jtl7k3lnduptin06xi4g.png/matplotlib-2uncl5i1mw8pn8b08msh5.png?_a=DATAiZAAZAA0" alt="mathplotlib" width="40" height="40"/> </a>
+<a href="https://scikit-learn.org/stable/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/3840px-Scikit_learn_logo_small.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail" alt="scikit learn" width="60" height="40"/> </a>
+  
 
----
-
-<!-- GITHUB ANALYTICS DASHBOARD -->
-<h2 align="center">📊 GitHub Analytics Dashboard</h2>
-
-<div align="center">
-
-<img width="400" src="https://github-readme-stats.vercel.app/api?username=student-sayan&show_icons=true&theme=react&bg_color=0D1117&hide_border=true&icon_color=00E5FF&title_color=00FFFF&text_color=FFFFFF" alt="GitHub Stats">
-
-<img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=student-sayan&layout=compact&theme=react&hide_border=true&bg_color=0D1117&text_color=FFFFFF&title_color=00FFFF" alt="Top Languages">
 
 
-</div>
 
 ---
 
